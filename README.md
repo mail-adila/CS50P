@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Harvard](https://img.shields.io/badge/Harvard-CS50P-A51C30?style=flat-square&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-7%2F9%20Weeks-4CAF50?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-8%2F9%20Weeks-4CAF50?style=flat-square)
 ![pytest](https://img.shields.io/badge/pytest-passing-43B02A?style=flat-square&logo=pytest&logoColor=white)
 
 My solutions to **Harvard's CS50P: Introduction to Programming with Python** — a rigorous, project-based course teaching Python from conditionals through regular expressions.
@@ -22,6 +22,7 @@ CS50P/
 ├── week_five_unit_tests/            # pytest, test-driven development
 ├── week_six_file_io/                # CSV, file reading & writing, Pillow
 ├── week_seven_regular_expressions/  # re module, pattern matching
+├── week_eight_oops/                 # classes, OOP, fpdf2, inflect
 └── tests/                           # additional test files
 ```
 
@@ -62,6 +63,12 @@ Pattern matching with Python's `re` module — includes:
 - Working 9 to 5 (time format parsing)
 - Regular, um, Expressions (filler word detection)
 - Response Validation (yes/no input parsing)
+
+### Week 8 — Object-Oriented Programming
+Designing classes with `__init__`, `__str__`, `@property`, and instance methods — includes:
+- Cookie Jar (class design with deposit/withdraw logic)
+- Seasons of Love (birthday calculator using `inflect`)
+- CS50 Shirtificate (PDF generation using `fpdf2`)
 
 ---
 
